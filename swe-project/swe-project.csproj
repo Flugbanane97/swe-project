@@ -5,4 +5,7 @@
     <RootNamespace>swe_project</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Modelle\" />
+  </ItemGroup>
 </Project>

@@ -50,6 +50,7 @@ namespace swe_project
             {
                 endpoints.MapControllerRoute(
                     name: "default",
+                    //ist das RouteConfig aus dem Tutorial
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
         }
